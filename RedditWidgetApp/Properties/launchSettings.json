@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RedditWidgetApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RedditWidgetApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
